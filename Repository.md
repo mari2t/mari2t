@@ -8,4 +8,3 @@
 | [Cover-non-DXenvironment-Girl](https://github.com/mari2t/Cover-non-DXenvironment-Girl) | Meeting Recording App              | \-        | \-           | \-                        | 2023/3/11     |
 | [MySchedule](https://github.com/mari2t/MySchedule)                                     | Scheduling App                     | React     | Tailwind CSS | \-                        | 2023/1/29     |
 | [MydidReact_fourSeasons](https://github.com/mari2t/MydidReact_fourSeasons)             | App to record what you've done     | React     | \-           | \-                        | 2023/1/3      |
-| [Mydid](https://github.com/mari2t/Mydid)                                               | App to record what you've done     | \-        | \-           | \-                        | 2022/12/12    |
