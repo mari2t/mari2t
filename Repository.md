@@ -1,8 +1,8 @@
-## Repository
+# Repository
 
 作成(Make)したり学習(Study)したレポジトリです。
 
-### 🔴Ruby
+## 🔴Ruby
 
 | Repository                                                 | Overview           | Strudy/Make | Framework     | Other             | Creation Date |
 | ---------------------------------------------------------- | ------------------ | ----------- | ------------- | ----------------- | ------------- |
@@ -10,7 +10,7 @@
 | [blog-y](https://github.com/mari2t/blog-yt)                | ブログ             | Study       | Ruby on Rails | Tailwind CSS,Next | 2024/1/2      |
 | [yt-bbs](https://github.com/mari2t/yt-bbs)                 | 掲示板             | Study       | Ruby on Rails | \-                | 2023/12/19    |
 
-### 🔵TypeScript
+## 🔵TypeScript
 
 | Repository                                                                    | Overview                       | Make/Study | Framework | Other                                 | Creation Date |
 | ----------------------------------------------------------------------------- | ------------------------------ | ---------- | --------- | ------------------------------------- | ------------- |
@@ -19,7 +19,7 @@
 | [TODO everywhere](https://github.com/mari2t/todo-everywhere)                  | ✔️TODOアプリ                   | Make       | Next      | Tailwind CSSOpenWether,Maps Embed API | 2023/7/9      |
 | [simple-blog-app-yt](https://github.com/mari2t/simple-blog-app-yt)            | ブログ                         | Study      | Next      | Tailwind CSS,T3                       | 2023/12/13    |
 
-### 🟡JavaScript
+## 🟡JavaScript
 
 | Repository                                                                             | Overview                 | Make/Study | Framework | Other                     | Creation Date |
 | -------------------------------------------------------------------------------------- | ------------------------ | ---------- | --------- | ------------------------- | ------------- |
@@ -30,13 +30,13 @@
 | [Mydid](https://github.com/mari2t/Mydid)                                               | ✅やったこと記録アプリ   | Make       | \-        | \-                        | 2022/12/12    |
 | [React_trello_udemy](https://github.com/mari2t/React_trello_udemy)                     | Torello風Todo            | Study      | React     | \-                        | 2023/1/1      |
 
-### 🟠Svelte
+## 🟠Svelte
 
 | Repository                                                                      | Overview         | Make/Study | Framework | Other        | Creation Date |
 | ------------------------------------------------------------------------------- | ---------------- | ---------- | --------- | ------------ | ------------- |
 | [action-impact-comparison ](https://github.com/mari2t/action-impact-comparison) | 🚶行動比較アプリ | Make       | Sveltekit | Tailwind CSS | 2023/11/11    |
 
-### 🟢Vue
+## 🟢Vue
 
 | Repository                                                       | Overview                   | Make/Study | Languages | Other | Creation Date |
 | ---------------------------------------------------------------- | -------------------------- | ---------- | --------- | ----- | ------------- |
