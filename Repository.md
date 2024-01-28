@@ -6,7 +6,7 @@
 
 | Repository                                                 | Overview           | Make/Study | Framework          | Other        | Creation Date |
 | ---------------------------------------------------------- | ------------------ | ---------- | ------------------ | ------------ | ------------- |
-| [ruby-kids-todo](https://github.com/mari2t/ruby-kids-todo) | 🧒子供用TODOアプリ | Make       | Ruby on Rails      | \-           | 作成中        |
+| [ruby-kids-todo](https://github.com/mari2t/ruby-kids-todo) | 🧒子供用TODOアプリ | Make       | Ruby on Rails      | \-           | 2024/1/27     |
 | [blog-y](https://github.com/mari2t/blog-yt)                | ブログ             | Study      | Ruby on Rails,Next | Tailwind CSS | 2024/1/2      |
 | [yt-bbs](https://github.com/mari2t/yt-bbs)                 | 掲示板             | Study      | Ruby on Rails      | \-           | 2023/12/19    |
 
