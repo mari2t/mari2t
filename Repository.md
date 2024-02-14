@@ -2,6 +2,12 @@
 
 作成(Make)したり学習(Study)したレポジトリです。
 
+## 🔵Python
+
+| Repository                                                     | Overview | Make/Study | Framework | Other | Creation Date |
+| -------------------------------------------------------------- | -------- | ---------- | --------- | ----- | ------------- |
+| [python-microblog](https://github.com/mari2t/python-microblog) | ブログ   | Study      | Django    | \-    | 2024/2/13     |
+
 ## 🔴Ruby
 
 | Repository                                                 | Overview           | Make/Study | Framework          | Other        | Creation Date |
