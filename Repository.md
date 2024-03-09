@@ -4,9 +4,10 @@
 
 ## 🔵Python
 
-| Repository                                                     | Overview | Make/Study | Framework | Other | Creation Date |
-| -------------------------------------------------------------- | -------- | ---------- | --------- | ----- | ------------- |
-| [python-microblog](https://github.com/mari2t/python-microblog) | ブログ   | Study      | Django    | \-    | 2024/2/13     |
+| Repository                                                     | Overview   | Make/Study | Framework | Other | Creation Date |
+| -------------------------------------------------------------- | ---------- | ---------- | --------- | ----- | ------------- |
+| [mysite](https://github.com/mari2t/mysite)                     | 投票アプリ | Study      | Django    | \-    | 2024/3/7      |
+| [python-microblog](https://github.com/mari2t/python-microblog) | ブログ     | Study      | Django    | \-    | 2024/2/13     |
 
 ## 🔴Ruby
 
