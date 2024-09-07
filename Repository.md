@@ -49,3 +49,9 @@
 | Repository                                                       | Overview                   | Make/Study | Languages | Other | Creation Date |
 | ---------------------------------------------------------------- | -------------------------- | ---------- | --------- | ----- | ------------- |
 | [TheRestOfYourLife](https://github.com/mari2t/TheRestOfYourLife) | 🧓人生の残り時間計算アプリ | Make       | \-        | \-    | 2023/5/4      |
+
+## ⚫Other
+
+| Repository                           | Overview        | Make/Study | Languages | Other | Creation Date |
+| ------------------------------------ | --------------- | ---------- | --------- | ----- | ------------- |
+| [til](https://github.com/mari2t/til) | Today I Learned | Make       | \-        | \-    | 2024/8/9-     |
