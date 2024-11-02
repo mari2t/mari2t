@@ -1,6 +1,7 @@
 # Repository
 
-作成(Make)したり学習(Study)したレポジトリです。
+作成(Make)または学習(Study)したレポジトリです。  
+A repository that I have created or studied.
 
 ## 🔵Python
 
