@@ -20,13 +20,14 @@ A repository that I have created or studied.
 
 ## 🔵TypeScript
 
-| Repository                                                                    | Overview                       | Make/Study | Framework | Other                                      | Creation Date |
-| ----------------------------------------------------------------------------- | ------------------------------ | ---------- | --------- | ------------------------------------------ | ------------- |
-| [alcohol_calculator_next](https://github.com/mari2t/alcohol_calculator_next)  | 🍸アルコール計算機             | Make       | Next      | Tailwind CSS                               | 2024/8/18     |
-| [subscription-management ](https://github.com/mari2t/subscription-management) | 💰サブスクリプション管理アプリ | Make       | Next      | Tailwind CSS,T3                            | 2023/12/28    |
-| [mari2t_portfolio](https://github.com/mari2t/mari2t_portfolio)                | 📖ポートフォリオサイト         | Make       | Next      | Tailwind CSS                               | 2023/8/14     |
-| [TODO everywhere](https://github.com/mari2t/todo-everywhere)                  | ✔️TODOアプリ                   | Make       | Next      | Tailwind CSS,OpenWether API,Maps Embed API | 2023/7/9      |
-| [simple-blog-app-yt](https://github.com/mari2t/simple-blog-app-yt)            | ブログ                         | Study      | Next      | Tailwind CSS,T3                            | 2023/12/13    |
+| Repository                                                                    | Overview                       | Make/Study | Framework | Other                                     | Creation Date |
+| ----------------------------------------------------------------------------- | ------------------------------ | ---------- | --------- | ----------------------------------------- | ------------- |
+| [rainbow_analog_timer](https://github.com/mari2t/rainbow_analog_timer)        | ⏲️アナログタイマー             | Make       | Next      | Tailwind CSS,Shadcn                       | 2024/11/19    |
+| [alcohol_calculator_next](https://github.com/mari2t/alcohol_calculator_next)  | 🍸アルコール計算機             | Make       | Next      | Tailwind CSS                              | 2024/8/18     |
+| [subscription-management ](https://github.com/mari2t/subscription-management) | 💰サブスクリプション管理アプリ | Make       | Next      | Tailwind CSS,T3                           | 2023/12/28    |
+| [mari2t_portfolio](https://github.com/mari2t/mari2t_portfolio)                | 📖ポートフォリオサイト         | Make       | Next      | Tailwind CSS                              | 2023/8/14     |
+| [TODO everywhere](https://github.com/mari2t/todo-everywhere)                  | ✔️TODOアプリ                   | Make       | Next      | Tailwind CSS,OpenWetherAPI,Maps Embed API | 2023/7/9      |
+| [simple-blog-app-yt](https://github.com/mari2t/simple-blog-app-yt)            | ブログ                         | Study      | Next      | Tailwind CSS,T3                           | 2023/12/13    |
 
 ## 🟡JavaScript
 
